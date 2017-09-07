@@ -1,0 +1,6 @@
+Este texto vai parar a um ficheiro de texto chamado teste.txt
+
+E o ficheiro pode ter muitas linhas.
+
+
+E aqui fica o fim do ficheiro.
