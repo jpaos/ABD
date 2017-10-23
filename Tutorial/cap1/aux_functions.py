@@ -17,8 +17,7 @@ def testa_funcao(funcao):
         test(funcao(['aba', 'xyz', 'aa', 'x', 'bbb']), 3)
         test(funcao(['', 'x', 'xy', 'xyx', 'xx']), 2)
         test(funcao(['aaa', 'be', 'abc', 'hello']), 1)
-    elif funcao.func_name=='front_x':
-
+    elif funcao.__name__=='front_x':
         print ('front_x')
         test(funcao(['bbb', 'ccc', 'axx', 'xzz', 'xaa']),
              ['xaa', 'xzz', 'axx', 'bbb', 'ccc'])
