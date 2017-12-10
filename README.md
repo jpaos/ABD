@@ -9,3 +9,11 @@ Exemplo para a directoria Tutorial:
 Para a directoria Aulas/Pandas:
 
     svn checkout https://github.com/jpaos/abd/trunk/Aulas/Pandas
+
+Para a directoria Aulas/SVMs:
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/SVMs
+
+Para a directoria Aulas/kaggle:
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/kaggle
