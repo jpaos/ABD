@@ -17,3 +17,7 @@ Para a directoria Aulas/SVMs:
 Para a directoria Aulas/kaggle:
 
     svn checkout https://github.com/jpaos/abd/trunk/Aulas/kaggle
+
+Para a directoria Aulas/spark:
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/spark
