@@ -12,7 +12,7 @@ Para a directoria Aulas/Pandas:
 
 Para a directoria Aulas/SVMs:
 
-    svn checkout https://github.com/jpaos/abd/trunk/Aulas/SVMs
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/SVM
 
 Para a directoria Aulas/kaggle:
 
