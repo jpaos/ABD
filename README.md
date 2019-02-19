@@ -6,6 +6,10 @@ Exemplo para a directoria Tutorial:
 
     svn checkout https://github.com/jpaos/abd/trunk/Tutorial
 
+Para a directoria Aulas/MapReduce:
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/MapReduce
+
 Para a directoria Aulas/Pandas:
 
     svn checkout https://github.com/jpaos/abd/trunk/Aulas/Pandas
