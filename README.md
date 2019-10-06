@@ -6,22 +6,10 @@ Exemplo para a directoria Tutorial:
 
     svn checkout https://github.com/jpaos/abd/trunk/Tutorial
 
-Para a directoria Aulas/MapReduce:
+Para a directoria Aulas/aula_02 (introdução ao Python):
 
-    svn checkout https://github.com/jpaos/abd/trunk/Aulas/MapReduce
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_02
 
-Para a directoria Aulas/Pandas:
+Para a directoria Aulas/aula_03 (introdução ao Spark):
 
-    svn checkout https://github.com/jpaos/abd/trunk/Aulas/Pandas
-
-Para a directoria Aulas/SVMs:
-
-    svn checkout https://github.com/jpaos/abd/trunk/Aulas/SVM
-
-Para a directoria Aulas/kaggle:
-
-    svn checkout https://github.com/jpaos/abd/trunk/Aulas/kaggle
-
-Para a directoria Aulas/spark:
-
-    svn checkout https://github.com/jpaos/abd/trunk/Aulas/spark
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_03
