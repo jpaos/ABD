@@ -13,3 +13,8 @@ Para a directoria Aulas/aula_02 (introdução ao Python):
 Para a directoria Aulas/aula_03 (introdução ao Spark):
 
     svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_03
+
+Para a directoria Aulas/aula_04 (Structed API Overview):
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_04
+
