@@ -18,6 +18,14 @@ Para a directoria Aulas/aula_04 (Structed API Overview):
 
     svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_04
 
-    Para a directoria Aulas/aula_05 (Aggregations and joins):
+Para a directoria Aulas/aula_05 (Aggregations and joins):
 
-        svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_05
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_05
+
+Para a directoria Aulas/aula_06:
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_06
+
+Para a directoria Aulas/aula_07:
+
+    svn checkout https://github.com/jpaos/abd/trunk/Aulas/aula_07
